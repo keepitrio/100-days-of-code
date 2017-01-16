@@ -22,3 +22,9 @@
 **Today's Progress**: I worked on a simple project, a form to enter username and password. 
 
 **Thoughts** I still need to make some changes to my JS file so that the second password entered is compared to first to make sure they match. I want to make some more style changes too. Took a break from sketchpad.
+
+### Day 4
+
+**Today's Progress**: Back to my sketchpad project, I fixed my JS to be able to draw on canvas. Next, I'll need to write a function for the clear button. 
+
+**Thoughts** Today was a little frustrating trying to figure out why my JS wasn't working. I'm getting a better grip on how event handling and callback functions work, so I'm excited to work on the clear button, which will be what I work on next time. 
