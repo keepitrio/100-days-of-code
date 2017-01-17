@@ -28,3 +28,11 @@
 **Today's Progress**: Back to my sketchpad project, I fixed my JS to be able to draw on canvas. Next, I'll need to write a function for the clear button. 
 
 **Thoughts** Today was a little frustrating trying to figure out why my JS wasn't working. I'm getting a better grip on how event handling and callback functions work, so I'm excited to work on the clear button, which will be what I work on next time. 
+
+### Day 5
+
+**Today's Progress**: Today I made the clear button work, but the previous drawing would reappear when I clicked in the canvas again. To fix this, I had to set clickX and clickY to new arrays so it cleared the array.
+
+I also worked on the random color button. When you click on this button, you'll get a random color from an array of 5 colors. The only problem with this is that it changes any previous drawing to that color as well. Ideally, I'd want the previous colors to remain, but that's for another day. 
+
+**Thoughts** I felt great about my progress today. Little steps, but getting there.
