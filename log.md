@@ -36,3 +36,9 @@
 I also worked on the random color button. When you click on this button, you'll get a random color from an array of 5 colors. The only problem with this is that it changes any previous drawing to that color as well. Ideally, I'd want the previous colors to remain, but that's for another day. 
 
 **Thoughts** I felt great about my progress today. Little steps, but getting there.
+
+### Day 6
+
+**Today's Progress**: My "doing" time will mainly consist of copying websites and practicing string manipulation and other little exercises like that. Today I started copying one of my favorite websites, coolers.co. It will have the basic functionality of clicking on Space button to get a new set of colors. Today I used JS to create the divs that will contain the colors when Space button is pressed. 
+
+**Thoughts** Why aren't my CSS styles showing? I'm missing something here...
