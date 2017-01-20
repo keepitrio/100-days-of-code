@@ -42,3 +42,10 @@ I also worked on the random color button. When you click on this button, you'll 
 **Today's Progress**: My "doing" time will mainly consist of copying websites and practicing string manipulation and other little exercises like that. Today I started copying one of my favorite websites, coolers.co. It will have the basic functionality of clicking on Space button to get a new set of colors. Today I used JS to create the divs that will contain the colors when Space button is pressed. 
 
 **Thoughts** Why aren't my CSS styles showing? I'm missing something here...
+
+
+### Day 6
+
+**Today's Progress**: I worked on my username and password page today. Tried to alter the JS so that when the submit button is clicked, there would be an alert when passwords don't match. Code looks rght but for some reason, the input values are not being stored in the variables I created. I'll need to revisit this another day. 
+
+**Thoughts** Everything looks right, but it's not working. What happening here? 
