@@ -49,3 +49,15 @@ I also worked on the random color button. When you click on this button, you'll 
 **Today's Progress**: I worked on my username and password page today. Tried to alter the JS so that when the submit button is clicked, there would be an alert when passwords don't match. Code looks rght but for some reason, the input values are not being stored in the variables I created. I'll need to revisit this another day. 
 
 **Thoughts** Everything looks right, but it's not working. What happening here? 
+
+### Day 7
+
+**Today's Progress**: Worked on my username and password JS file but function is not working as I want it to.. will need to revisit later.
+
+### Day 8
+
+**Today's Progress**: Worked more on copying coolers.co. I made the divs in HTML and styled them with colors in my CSS file. Next I'll want to create a sticky nav bar in HTML. I will create an array of arrays of objects in my JS file and create a function that will choose one of the arrays randomly when the space button is pressed and display the color of the name, the Hex code, as well as change the color of the panel to the Hex color. 
+
+**Thoughts** Also noticed a bug in my Sketchpad project. When you click on clear, the next time you try to draw in the sketchpad, if you let go of the mouse while drawing, it will draw a line the next time you click on your mouse in a different location. It seems like clicking on CLEAR clears changes I've made when I saw this was happening with the color button. Maybe I'll just need to copy and paste that same code for the CLEAR button. 
+
+Moving forward, I've decided to focus on one question a week that I want to get answered and log the answer to. This week's question is, "What were some difficulties faced in DBC, how can I prepare to avoid this kind of stress?" In order to answer this question, I will reach out to DBC alums and ask them about their experience with DBC.
