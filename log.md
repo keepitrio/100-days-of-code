@@ -60,4 +60,10 @@ I also worked on the random color button. When you click on this button, you'll 
 
 **Thoughts** Also noticed a bug in my Sketchpad project. When you click on clear, the next time you try to draw in the sketchpad, if you let go of the mouse while drawing, it will draw a line the next time you click on your mouse in a different location. It seems like clicking on CLEAR clears changes I've made when I saw this was happening with the color button. Maybe I'll just need to copy and paste that same code for the CLEAR button. 
 
-Moving forward, I've decided to focus on one question a week that I want to get answered and log the answer to. This week's question is, "What were some difficulties faced in DBC, how can I prepare to avoid this kind of stress?" In order to answer this question, I will reach out to DBC alums and ask them about their experience with DBC.
+Moving forward, I've decided to focus on one question a week that I want to get answered and log the answer to. This week's question is, "What style of company would I want to work at?" In order to answer this question, I will think about what I value in in the work I accomplish.
+
+### Day 9
+
+**Today's Progress**: I continued to work on my copy of the coolers.co page. I added a nav bar with styling. Right now, the "More" droptown is activated when you click on it. I want to change it by using Javascript so the dropdown menu will remain opened after I click on "More". Once I click on "More" again, the dropdown menu should disappear.
+
+**Thoughts** Styling looks pretty close to the original. I still have to work on the arrays within an array with different sets of colors for when you press the space bar. 
