@@ -67,3 +67,9 @@ Moving forward, I've decided to focus on one question a week that I want to get 
 **Today's Progress**: I continued to work on my copy of the coolers.co page. I added a nav bar with styling. Right now, the "More" droptown is activated when you click on it. I want to change it by using Javascript so the dropdown menu will remain opened after I click on "More". Once I click on "More" again, the dropdown menu should disappear.
 
 **Thoughts** Styling looks pretty close to the original. I still have to work on the arrays within an array with different sets of colors for when you press the space bar. 
+
+### Day 10
+
+**Today's Progress**: Didn't make too much progress today. Created an array of arrays of objects. Each object is a panel, there are 5 panels per array within the array. I'll need to create a function that chooses a random array when the space button is clicked, then I'll need to create an <h1> and <p> in each panel and put the text in the panel. 
+
+**Thoughts** It's definitely a lot harder to get things done when working a full time job. Progress is slow but I will get there. 
