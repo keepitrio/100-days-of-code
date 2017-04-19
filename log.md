@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12
+
+**Today's Progress**: Started a course on https://learn.co. Just trying to jog my brain before DBC starts on 5/8/17. Working through JavaScript basics, testing loops.
+
+**Thoughts**: I fell off the radar.. Felt pretty lazy and unmotivated lately, but finally got myself together this weekend and trying to get back into the habit of studying and doing things consistently.
+
 
 ### Day 11
 
