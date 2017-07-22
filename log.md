@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13
+
+**Today's Progress**: Worked on roman numerals challenge again, from Monday. This time I was able to fully understand the recursive version and implement the edge case of modern roman numerals.
+
+**Thoughts**: I should've started recording this info from the beginning of phase 0, but better late than never. This will be a good way to keep track of my thoughts during DBC. After a week of DBC, it's amazing how much I've solidified my understanding of topics that were previously so foreign to me. I'm feeling a lot more confident about everything, but I want to practice more, especially algorithms. We're starting OOP next week and I'm excited. We watched a video on mixins and class inheritence. The video really helped me understand how classes inherit methods and how modules will become a class's immediate ancestor if it is mixed into the class. 
+
 ### Day 12
 
 **Today's Progress**: Started a course on https://learn.co. Just trying to jog my brain before DBC starts on 5/8/17. Working through JavaScript basics, testing loops.
