@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14
+
+**Today's Progress**: Did a little reading from Object Oriented Design in Ruby by Sandi Metz and reviewed my cohortmate's code and did some refactoring. 
+
+**Thoughts**: While I was at HelloSign, I got the opportunity to shadow a full stack engineer on board, and a lot of his time was spent reviewing code. Some companies do some reviewing, but HelloSign (for both compliance and best practice reasons) reviews every line of code that's written. During that time, I came to fully understand the importance of reviewing code. Today I was able to read through somebody's code, explain what it does, pseudocode the whole thing, and refactor it. 
+
 ### Day 13
 
 **Today's Progress**: Worked on roman numerals challenge again, from Monday. This time I was able to fully understand the recursive version and implement the edge case of modern roman numerals.
