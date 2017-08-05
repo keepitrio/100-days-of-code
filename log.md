@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 15 - 20
+
+**Today's Progress**: Writing for end of week 2 and week 3 of phase 1 at DBC. We continued to study classes and inheritence, started some SQL in combination with Ruby, and started Active Records. 
+
+**Thoughts**: It's crazy to look back at day 1 of DBC and to see how far I've come. I can explain concepts that I was unclear of on day 1, and can solve problems I wouldn't have been able to before. I was freaking out before the assessment but felt confident and comfortable with the material on assessment day. I've passed and am moving onto phase 2. I'm scared but super excited.
+
+
 ### Day 14
 
 **Today's Progress**: Did a little reading from Object Oriented Design in Ruby by Sandi Metz and reviewed my cohortmate's code and did some refactoring. 
