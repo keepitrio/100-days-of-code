@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21
+
+**Today's Progress**: This week we're doing JavaScript in three days. Monday is plain JavaScript, Tuesday is jQuery, and Wednesday is AJAX. Today we practiced writing prototype functions, object literals, solving algorithms in javascript, and also continued to get Active Record assocation practice.
+
+**Thoughts**: Today was tough for me. I had migraines in the morning. I felt horrible for my pair because I felt like I was slowing us down since I was having trouble thinking. During lunch, I went out for a walk and I felt a whole lot better afterwards. We managed to complete all of the challenges for the day and I am feeling pretty comfortable with javascript. 
+
 ### Day 15 - 20
 
 **Today's Progress**: Writing for end of week 2 and week 3 of phase 1 at DBC. We continued to study classes and inheritence, started some SQL in combination with Ruby, and started Active Records. 
