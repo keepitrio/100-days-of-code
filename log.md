@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22-30
+
+**Today's Progress**: Today we worked on client projects. Our project was to create an app where students and admins have different capabilities. students can log in and add pitches, then vote on the pitches. Admins can control when students can add pitches or vote on pitches for 2 different rounds. 
+
+**Thoughts**:
+* Today was tougher than I expected. I was trying to create a nested form in a nested route, but the two were not related. Nested route was a vote form for different rounds, so the path would be round/1/votes. The nested form was for pitches in a specific round, which was a many to many relationship. I want to display the pitches that are available for the round, but the post request would be going to the votes controller and saving a vote to the database, with the round id and the pitch id. 
+
+
 ### Day 21
 
 **Today's Progress**: This week we're doing JavaScript in three days. Monday is plain JavaScript, Tuesday is jQuery, and Wednesday is AJAX. Today we practiced writing prototype functions, object literals, solving algorithms in javascript, and also continued to get Active Record assocation practice.
