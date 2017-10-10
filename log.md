@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 31
+
+**Today's Progress**: Learned about Binary Search Tree and practiced implementing it in Ruby.
+
+**Thoughts**:
+* I'm feeling comfortable understanding data structures and how they work, but I have more trouble implementing them.
+
 ### Day 22-30
 
 **Today's Progress**: Today we worked on client projects. Our project was to create an app where students and admins have different capabilities. students can log in and add pitches, then vote on the pitches. Admins can control when students can add pitches or vote on pitches for 2 different rounds. 
